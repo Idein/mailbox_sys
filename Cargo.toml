@@ -1,5 +1,5 @@
 [package]
-name = "mailbox_sys"
+name = "mailbox-sys"
 version = "0.1.0"
 authors = ["takayuki <takayuki@idein.jp>"]
 
